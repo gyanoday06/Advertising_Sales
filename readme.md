@@ -80,4 +80,4 @@ This project analyzes the sales prediction dataset, which includes advertising e
 The analysis provided insights into the impact of different advertising mediums on product sales. TV advertising had the highest impact on sales, while the correlation between radio advertising expenditure and product sales was moderately positive. The linear regression model demonstrated good performance, and normalization did not significantly affect the results. Using only radio and newspaper as predictors resulted in a significant decrease in model performance.
 
 Done By: Gyanoday Kothari
-Questions By: <a href="https://www.finlatics.com/" target="_blank" >finlatics/</a>
+Questions By: <a href="https://www.finlatics.com/" target="_blank" >finlatics</a>
