@@ -43,12 +43,10 @@ This project analyzes the sales prediction dataset, which includes advertising e
 
 #### Q4: Plot a linear regression line that includes all variables (TV, Radio, Newspaper) to predict Sales, and visualize the model's predictions against the actual sales values 📉
 
-- **Method:** Trained a linear regression model using all three advertising mediums as predictors. Visualized the model's predictions against the actual sales values for both training and test datasets.
+- **Method:** Trained a linear regression model using all three advertising mediums as predictors. Visualized the model's predictions against the actual sales values.
 - **Results:**
-  - **Training Set Visualization:**
+  - **Training Set Visualization:** <br>
     ![Training Set Visualization](training_set.png)
-  - **Test Set Visualization:** <br>
-    ![Test Set Visualization](test_set.png)
 
 #### Q5: How would sales be predicted for a new set of advertising expenditures: $200 on TV, $40 on Radio, and $50 on Newspaper? 💵
 
