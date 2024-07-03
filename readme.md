@@ -70,8 +70,8 @@ This project analyzes the sales prediction dataset, which includes advertising e
 - **Results:**
   - Mean Squared Error: 19.08
   - R² Score: 0.01
-  - Visualization:
-    ![Radio and Newspaper Predictions](radio_newspaper.png)
+  - Visualization: <br>
+    ![Radio and Newspaper Predictions](radio_news.png)
 
 ## Conclusion 🎯
 
