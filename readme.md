@@ -47,7 +47,7 @@ This project analyzes the sales prediction dataset, which includes advertising e
 - **Results:**
   - **Training Set Visualization:**
     ![Training Set Visualization](training_set.png)
-  - **Test Set Visualization:**
+  - **Test Set Visualization:** <br>
     ![Test Set Visualization](test_set.png)
 
 #### Q5: How would sales be predicted for a new set of advertising expenditures: $200 on TV, $40 on Radio, and $50 on Newspaper? 💵
